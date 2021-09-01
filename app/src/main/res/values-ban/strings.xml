@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">লগইন রেজিস্ট্রেশন মডিউল</string>
+    <string name="user_name">ব্যবহারকারীর নাম</string>
+    <string name="password">পাসওয়ার্ড</string>
+    <string name="login">প্রবেশ করুন</string>
+    <string name="sign_up_here">এখানে নিবন্ধন করুন</string>
+    <string name="welcome">স্বাগতম</string>
+    <string name="successfully">আপনি সফলভাবে লগ ইন করেছেন</string>
+    <string name="name">নাম</string>
+    <string name="email">ইমেইল</string>
+    <string name="sign_up">নিবন্ধন করুন</string>
+</resources>

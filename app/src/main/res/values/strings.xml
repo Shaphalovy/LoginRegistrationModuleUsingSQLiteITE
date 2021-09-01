@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Login Registration Module Using SQLITE</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up_here">Sign Up Here</string>
+    <string name="welcome">Welcome</string>
+    <string name="successfully">You are Successfully Logged In</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+
+
+
+
+</resources>
